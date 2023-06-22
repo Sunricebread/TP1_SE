@@ -1,4 +1,4 @@
-package dividebyzero;
+package Dividebywero;
 
 public class Main {
 
